@@ -1,0 +1,202 @@
+XREF #Start of abbreviation cross reference
+REGION Eur Europe
+COUNTRY Fr France
+COUNTRY En England
+*END*
+
+Harmonic harmonic file start - - - - - - - - -
+TEur:En:: 1.3181 51.1165 0:0 Dover, England
+
+Harmonic harmonic.msc file start - - - - - - - - -
+TEur:Fr:: -4.5 48.3833 1:0 Brest, France
+TEur:Fr:: -1.6333 49.65 1:0 Cherbourg, France
+TEur:Fr:: 0.1167 49.4833 1:0 Le Havre, France
+TEur:Fr:: -1.0667 45.5667 1:0 Pointe de Grave, France
+
+Subreg d:\misc\navigation\tides\substa\subreg.11 file start - - - - - - - - -
+
+Subreg d:\misc\navigation\tides\substa\subreg.12 file start - - - - - - - - -
+
+Subreg d:\misc\navigation\tides\substa\subreg.13 file start - - - - - - - - -
+tEur:Fr:: -1.6833 43.4 1:0 St. Jean de Luz (Socoa)
+&-31 1 -3.6 -22 1 -1.9 687 2 Pointe de Grave, France
+tEur:Fr:: -1.5 43.5167 1:0 Le Boucau, Adour Rvr
+&-29 1 -5.6 -23 1 -3.1 689 2 Pointe de Grave, France
+tEur:Fr:: -1.25 44.6167 1:0 Cap Ferret, Bassin D'Arcachon
+&-4 1 -4.8 0 1 -2.2 691 2 Pointe de Grave, France
+tEur:Fr:: -1.1667 44.6667 1:0 Arcachon
+&24 1 -3.5 28 1 -2.7 692 2 Pointe de Grave, France
+tEur:Fr:: -1.1667 45.5833 1:0 Gironde River: Cordouan
+&-18 1 -1.3 -18 1 -0.7 694 2 Pointe de Grave, France
+tEur:Fr:: -1.0333 45.6167 1:0 Gironde River: Royan
+&-5 1 -0.5 -3 1 -0.3 695 2 Pointe de Grave, France
+tEur:Fr:: -0.7833 45.3167 1:0 Gironde River: La Marechale
+&44 1 0.4 91 1 -1.3 696 2 Pointe de Grave, France
+tEur:Fr:: -0.75 45.2 1:0 Gironde River: Pauillac
+&58 1 0.8 119 1 -1.8 697 2 Pointe de Grave, France
+tEur:Fr:: -0.6667 45.1333 1:0 Gironde River: Blaye
+&80 1 0.1 163 1 2.5 698 2 Pointe de Grave, France
+tEur:Fr:: -0.5667 44.8333 1:0 Bordeaux, Garonne Rvr
+&144 1 -0.2 262 1 -4.6 701 2 Pointe de Grave, France
+tEur:Fr:: -1.1167 45.7833 1:0 La Cayenne, Seudre Rvr
+&-28 1 1.4 -12 1 1.4 703 2 Pointe de Grave, France
+tEur:Fr:: -0.9667 45.95 1:0 Rochefort, Charente Rvr
+&-10 1 3.3 66 1 1.2 705 2 Pointe de Grave, France
+tEur:Fr:: -1.1667 46.0167 1:0 Ile d'Aix
+&-18 1 2.5 -8 1 0.2 707 2 Pointe de Grave, France
+tEur:Fr:: -1.15 46.15 1:0 La Rochelle
+&-24 1 1.2 -10 1 -0.7 709 2 Pointe de Grave, France
+tEur:Fr:: -1.2167 46.1667 1:0 La Pallice
+&-24 1 0.8 -15 1 -0.8 711 2 Pointe de Grave, France
+tEur:Fr:: -1.3667 46.2 1:0 St. Martin, Ile de Re
+&-33 1 1.7 -4 1 -0.1 713 2 Pointe de Grave, France
+tEur:Fr:: -1.7833 46.5 1:0 Les Sables d'Olonne
+&-23 1 -0.9 -1 1 -0.7 715 2 Pointe de Grave, France
+tEur:Fr:: -1.9333 46.7 1:0 St. Gilles sur Vie
+&-43 1 -0.2 -19 1 -0.6 717 2 Pointe de Grave, France
+tEur:Fr:: -2.3333 46.7 1:0 Port Joinville, Ile d'Yeu
+&-59 1 -1.9 -19 1 -1.9 719 2 Pointe de Grave, France
+tEur:Fr:: -2.1667 46.9 1:0 Fromentine
+&-41 1 -0.3 15 1 -1 721 2 Pointe de Grave, France
+tEur:Fr:: -2.2167 47.0167 1:0 Bois de la Chaise, Noirmoutier Isl
+&-42 1 -0.3 10 1 -1.6 723 2 Pointe de Grave, France
+tEur:Fr:: -2.1 47.1167 1:0 Pornic
+&-43 1 0 17 1 -1.6 725 2 Pointe de Grave, France
+tEur:Fr:: -2.2 47.2667 1:0 St. Nazaire, Loire Rvr
+&-23 1 0.1 17 1 -1.3 727 2 Pointe de Grave, France
+tEur:Fr:: -2.0333 47.2833 1:0 Paimboeuf, Loire Rvr
+&7 1 -0.6 69 1 -1 729 2 Pointe de Grave, France
+tEur:Fr:: -1.5833 47.2167 1:0 Nantes, Loire Rvr
+&74 1 0.9 204 1 -0.1 731 2 Pointe de Grave, France
+tEur:Fr:: -2.4167 47.2833 1:0 Le Pouliguen
+&-37 1 -0.3 2 1 -0.8 733 2 Pointe de Grave, France
+tEur:Fr:: -2.5167 47.3 1:0 Le Croisic
+&-37 1 0.8 -9 1 0 735 2 Pointe de Grave, France
+tEur:Fr:: -2.6167 47.5167 1:0 Penerf
+&-27 1 0.2 -5 1 -0.7 737 2 Pointe de Grave, France
+tEur:Fr:: -2.9167 47.55 1:0 Port Navalo, Morbihan Entr
+&-19 1 -1.2 9 1 -1 739 2 Pointe de Grave, France
+tEur:Fr:: -2.7667 47.6667 1:0 Vannes, Morbihan
+&103 1 -1.4 67771 1 0.8 741 2 Pointe de Grave, France
+tEur:Fr:: -2.9833 47.6667 1:0 Auray, Morbihan
+&8 1 -0.2 67771 1 -0.4 743 2 Pointe de Grave, France
+tEur:Fr:: -3.0333 47.5833 1:0 La Trinite, Crach Rvr
+&-27 1 0.1 -5 1 -0.4 745 2 Pointe de Grave, France
+tEur:Fr:: -3.15 47.35 1:0 Le Palais, Belle Ile
+&-37 1 -0.5 -16 1 -0.7 747 2 Pointe de Grave, France
+tEur:Fr:: -3.35 47.7 1:0 Port Louis
+&-33 1 -1.1 -11 1 -1 749 2 Pointe de Grave, France
+tEur:Fr:: -3.35 47.75 1:0 Lorient
+&-27 1 -1.1 -13 1 -1 751 2 Pointe de Grave, France
+tEur:Fr:: -3.9 47.8667 1:0 Concarneau
+&-29 1 -1.3 -13 1 -0.9 755 2 Pointe de Grave, France
+tEur:Fr:: -4.1167 47.8833 1:0 Benodet, Odet Rvr
+&-28 1 -1.4 -13 1 -1 757 2 Pointe de Grave, France
+tEur:Fr:: -4.1667 47.8333 1:0 Loctudy
+&-31 1 -1.4 -13 1 -0.7 759 2 Pointe de Grave, France
+tEur:Fr:: -4.3667 47.8 1:0 Penmarch
+&-35 1 -1.1 -17 1 -0.9 761 2 Pointe de Grave, France
+tEur:Fr:: -4.55 48.0167 1:0 Audierne
+&-41 1 -1.9 -19 1 1.6 763 2 Pointe de Grave, France
+tEur:Fr:: -4.8667 48.0333 1:0 Ile de Sein
+&-14 1 -2.6 -18 1 -1 765 2 Brest, France
+tEur:Fr:: -4.3333 48.1 1:0 Douarnenez
+&-10 1 -0.8 -22 1 0 767 2 Brest, France
+tEur:Fr:: -4.6 48.2667 1:0 Camaret
+&-8 1 -0.2 -10 1 0.2 769 2 Brest, France
+tEur:Fr:: -4.4833 48.3333 1:0 Brest
+&0 1 0 0 1 0 771 2 Brest, France
+tEur:Fr:: -4.7833 48.3667 1:0 Le Conquet
+&-5 1 -0.2 0 1 0.1 773 2 Brest, France
+tEur:Fr:: -4.9667 48.4 1:0 Ile de Molene
+&8 1 0.1 14 1 -0.4 775 2 Brest, France
+tEur:Fr:: -5.1 48.45 1:0 Ile D'Ouessant
+&-4 1 0.2 3 1 0 777 2 Brest, France
+tEur:Fr:: -4.6333 48.5833 1:0 L'Aberbenoit Entr
+&22 1 1.9 33 1 -0.3 779 2 Brest, France
+tEur:Fr:: -3.9667 48.7167 1:0 Roscoff
+&54 1 3.2 60 1 -0.9 783 2 Brest, France
+tEur:Fr:: -3.8833 48.6833 1:0 Morlaix River Entr
+&61 1 4.3 65 1 0.3 785 2 Brest, France
+tEur:Fr:: -3.4833 48.8333 1:0 Ploumanach
+&75 1 4.7 72 1 -0.4 787 2 Brest, France
+tEur:Fr:: -3.2167 48.85 1:0 Plougrescan, Treguier Rvr
+&78 1 6.6 83 1 0.6 789 2 Brest, France
+tEur:Fr:: -3.0833 48.9 1:0 Heaux-de-Brehat
+&113 1 6.8 106 1 0.1 791 2 Brest, France
+tEur:Fr:: -3 48.85 1:0 Ile de Brehat
+&109 1 8.9 108 1 0.2 793 2 Brest, France
+tEur:Fr:: -3.1 48.7833 1:0 Lezardrieux
+&109 1 8.1 108 1 -0.8 801 2 Brest, France
+tEur:Fr:: -3.0333 48.7833 1:0 Paimpol
+&111 1 8.4 118 1 -1.6 803 2 Brest, France
+tEur:Fr:: -2.8167 48.6 1:0 Binic
+&121 1 11.2 133 1 1.6 805 2 Brest, France
+tEur:Fr:: -2.7167 48.5333 1:0 Le Legue Entr
+&121 1 11.2 133 1 1.6 807 2 Brest, France
+tEur:Fr:: -2.4667 48.6333 1:0 Erquy
+&119 1 11.3 137 1 1.5 809 2 Brest, France
+tEur:Fr:: -2.0333 48.6333 1:0 St. Malo
+&124 1.77 -3.3 157 1.77 -3.3 811 2 Brest, France
+tEur:Fr:: -1.85 48.6833 1:0 Cancale
+&127 1.88 -1.8 169 1.88 -1.8 813 2 Brest, France
+tEur:Fr:: -1.6167 48.8333 1:0 Granville
+&126 1.91 -4.2 169 1.91 -4.2 815 2 Brest, France
+tEur:Fr:: -1.7833 49.3667 1:0 Carteret
+&150 1 10.5 178 1 1.7 817 2 Brest, France
+tEur:Fr:: -1.8667 49.55 1:0 Dielette
+&160 1 6.3 177 1 0.6 819 2 Brest, France
+tEur:Fr:: -1.8167 48.8667 1:0 Iles Chausey
+&133 1.82 -2 169 1.82 -2 821 2 Brest, France
+tEur:Fr:: -2.1333 48.95 1:0 Les Minquiers
+&147 1.7 -3.6 166 1.7 -3.6 823 2 Brest, France
+tEur:Fr:: -2.1167 49.1833 1:0 St. Helier, Jersey Isl
+&143 1.59 -3 158 1.59 -3 825 2 Brest, France
+tEur:Fr:: -2.5167 49.45 1:0 St. Peter Port, Guernsey Isl
+&149 1 4.2 155 1 -0.2 827 2 Brest, France
+tEur:Fr:: -2.2 49.7167 1:0 Braye, Alderney Isl
+&172 1 -3.9 183 1 -3.7 829 2 Brest, France
+tEur:Fr:: -1.8333 49.7 1:0 Omonville
+&-24 1 -0.6 -26 1 -0.3 831 2 Cherbourg, France
+tEur:Fr:: -1.25 49.6667 1:0 Barfleur
+&49 1 0.3 44 1 0 835 2 Cherbourg, France
+tEur:Fr:: -1.2667 49.5833 1:0 St. Vaast la Hougue
+&52 1 1.5 71 1 0 837 2 Cherbourg, France
+tEur:Fr:: -0.8167 49.35 1:0 Port-en-Bessin
+&-50 1 -2.4 -32 1 -0.8 839 2 Le Havre, France
+tEur:Fr:: -0.25 49.2833 1:0 Ouistreham
+&-30 1 -1.2 -6 1 -1.1 841 2 Le Havre, France
+tEur:Fr:: 0.0833 49.3667 1:0 Trouville
+&-31 1 -0.5 -3 1 -1.2 843 2 Le Havre, France
+tEur:Fr:: 0.5333 49.4667 1:0 Seine River: Quillebeuf
+&-34 1 0.7 128 1 4 847 2 Le Havre, France
+tEur:Fr:: 0.7333 49.5333 1:0 Seine River: Caudebec
+&42 1 4.5 203 1 7.9 849 2 Le Havre, France
+tEur:Fr:: 0.8667 49.4833 1:0 Seine River: Duclair
+&132 1 -0.2 281 1 10.5 851 2 Le Havre, France
+tEur:Fr:: 1.0833 49.45 1:0 Seine River: Rouen
+&282 1 0.8 378 1 12.4 853 2 Le Havre, France
+tEur:Fr:: 0.3667 49.7667 1:0 Fecamp
+&15 1 4 -27 1 1.5 855 1 Dover, England
+tEur:Fr:: 0.7 49.8667 1:0 St. Valery-en-Caux
+&22 1 6.5 1 1 1.2 857 1 Dover, England
+tEur:Fr:: 1.0833 49.9333 1:0 Dieppe
+&39 1 7.3 11 1 1 859 1 Dover, England
+tEur:Fr:: 1.3667 50.0667 1:0 Le Treport
+&41 1 10.2 19 1 3.2 861 1 Dover, England
+tEur:Fr:: 1.5667 50.2167 1:0 Le Hourdel, Somme Rvr
+&63 1 9.4 1111 1 111.1 865 1 Dover, England
+tEur:Fr:: 1.5833 50.5167 1:0 Le Touquet
+&51 1 6.7 1111 1 1.8 867 1 Dover, England
+tEur:Fr:: 1.5833 50.7333 1:0 Boulogne
+&58 1 6.8 53 1 1.4 869 1 Dover, England
+tEur:Fr:: 1.85 50.9667 1:0 Calais
+&80 1 0.9 65 1 -0.3 871 1 Dover, England
+tEur:Fr:: 2.1 51.0167 1:0 Gravelines
+&98 1 -1.8 84 1 -0.9 873 1 Dover, England
+tEur:Fr:: 2.3667 51.05 1:0 Dunkerque
+&108 1 -2.6 84 1 -1.1 875 1 Dover, England
+
+Subreg d:\misc\navigation\tides\substa\subreg.14 file start - - - - - - - - -
+
+Subreg d:\misc\navigation\tides\substa\subreg.59 file start - - - - - - - - -
